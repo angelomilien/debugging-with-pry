@@ -7,5 +7,3 @@ describe "#plus_two" do
 	end
 
 end
-
-#pry
